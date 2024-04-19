@@ -1,0 +1,85 @@
+*{
+    color: #637533;
+    background-color: #f1f2e0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    margin: 0px;
+}
+#imatges-cap{
+    display: flex;
+    align-items: center;
+}
+#capcalera{
+    background-color: #f1f2e0;
+}
+#titol-img{
+    background-color: #f1f2e0;
+    padding-left: 7%;
+}
+#icona-cap{
+    background-color: #f1f2e0;
+    padding-left: 5%;
+}
+#video-text{
+    display: flex;
+    align-items: center;
+}
+#video-text > p{
+    padding-left: 7%;
+    padding-right: 10%;
+}
+#video-presentacio{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 75px;
+    border-radius: 15px;
+}
+
+
+
+/* Links */
+footer div{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 17%;
+    padding-right: 20%;
+    background-color: #a2bb5f;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    font-size: 18px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+img{
+    background-color: #a2bb5f;
+    padding-right: 10px;
+}
+#links{
+    display: flex;
+}
+.divdentro{
+    flex: 1;
+}
+.alineaeldiv{
+    display: flex;
+    background-color: #a2bb5f;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    color: #404b20;
+    background-color: #a2bb5f;
+}
+a:hover{
+    text-decoration: underline;
+}
+.idiomes{
+    font-size: 14px;
+    background-color: #a2bb5f;
+    padding-right: 10px;
+}
+.idiomes:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
