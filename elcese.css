@@ -29,6 +29,9 @@ body{
     padding-left: 7%;
     padding-right: 10%;
 }
+#text-video{
+    text-align: justify;
+}
 #video-presentacio{
     margin-top: 50px;
     margin-bottom: 50px;
